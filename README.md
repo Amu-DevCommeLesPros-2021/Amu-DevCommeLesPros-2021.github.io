@@ -8,12 +8,18 @@
 Né à Montréal, Québec, Canada, il travaille pendant une vingtaine d’années dans la Silicon Valley jusqu’en 2019 quand il immigre à Marseille, France.
 Il a donc un accent un peu bizarre parfois, il a un vocabulaire anglophone du travail et il a aussi compris qu’on ne dit pas du mal de l’OM.
 
+![](https://www.dropbox.com/s/xnpo9tbyuf88xzr/devpro-d-ou-je-viens.png?raw=1)
+
 Vous pouvez le joindre :
 - par courriel à [thierry.seegers@univ-amu.fr](mailto:thierry.seegers@univ-amu.fr)
 - sur Slack à http://devcommelespros.slack.com ([invitation](https://join.slack.com/t/devcommelespros/signup))
 - [site perso](http://thierry.seegers.perso.luminy.univ-amu.fr/)
 
-![](https://www.dropbox.com/s/xnpo9tbyuf88xzr/devpro-d-ou-je-viens.png?raw=1)
+Pourquoi Slack ?
+Je me doute bien que vous préféreriez un serveur Discord plutôt que d'installer un énième outil de communication.
+Seulement Slack est aujourd'hui l'outil de communication préféré de la gente ingénieure californienne.
+Du coup, je suis toujours disponible sur Slack.
+Je peux vous rejoindre sur Discord (`CPP_Medium_Rare#9310`) mais je n'y suis pas «par défaut».
 
 ## Objectif du cours
 
@@ -27,12 +33,6 @@ Je souhaite que vous faire cochez le plus de cases possible lors de vos entretie
 
 Je donne ce cours avec l'idée que dans à peine plus de deux ans, vous serez parmi mes collègues de travail.
 Je communiquerai donc avec vous avec cette perspective.
-
-Pourquoi Slack ?
-Je me doute bien que vous préféreriez un serveur Discord plutôt que d'installer un énième outil de communication.
-Seulement Slack est aujourd'hui l'outil de communication préféré de la gente ingénieure californienne.
-Du coup, je suis toujours disponible sur Slack.
-Je peux vous rejoindre sur Discord (`CPP_Medium_Rare#9310`) mais je n'y suis pas «par défaut».
 
 ## Structure du cours
 
