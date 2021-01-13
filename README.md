@@ -13,7 +13,7 @@ Il a donc un accent un peu bizarre parfois, il a un vocabulaire anglophone du tr
 Vous pouvez le joindre :
 - par courriel à [thierry.seegers@univ-amu.fr](mailto:thierry.seegers@univ-amu.fr)
 - sur Slack à http://devcommelespros.slack.com ([invitation](https://join.slack.com/t/devcommelespros/signup))
-- [site perso](http://thierry.seegers.perso.luminy.univ-amu.fr/)
+- [site perso](https://thierry-seegers.pedaweb.univ-amu.fr/)
 
 Pourquoi Slack ?
 Je me doute bien que vous préféreriez un serveur Discord plutôt que d'installer un énième outil de communication.
