@@ -34,12 +34,12 @@ Je souhaite que vous faire cochez le plus de cases possible lors de vos entretie
 Je donne ce cours avec l'idée que dans à peine plus de deux ans, vous serez parmi mes collègues de travail.
 Je communiquerai donc avec vous avec cette perspective.
 
-## Structure du cours
+# Structure du cours
 
 Le cours consiste en des enseignements sur la pratique de la programmation en tant que professionnel·le, cinq exercices et un projet.
 Ce cours est évalué «en continue» et il n'y aura pas d'examen final.
 
-### La théorie
+## La théorie
 
 Le matériel théorique du cours est [ici](https://thierryseegers.github.io/DevCommeLesPros-CoursMagistral/).
 Les cours magistraux ne seront pas que de la théorie.
@@ -56,7 +56,7 @@ Voici les invitations pour chacun des cours :
 | vendredi 12 mars, 13:30 | |
 | mardi 23 mars, 10:30 | |
 
-### Les exercices
+## Les exercices
 
 Il y a cinq exercices à compléter.
 Comme ce cours est en évaluation continue, votre note finale est la somme des points obtenus pondérés comme indiqué.
@@ -76,7 +76,7 @@ Les deux derniers, en binôme.
 | [Exercice 3](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo3) | 4,25/20 | lundi 8 mars | lundi 22 mars, à midi | mardi 23 mars, à midi | mercredi 24 mars, à midi | mardi 23 mars, à midi |
 | [Exercice 4](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo4) | 4,25/20 | lundi 8 mars | mardi 23 mars, à midi | jeudi 25 mars, à midi | vendredi 26 mars, à midi | jeudi 25 mars, à midi |
 
-### Les bonus
+## Les bonus
 
 «Mais, dites-donc... Ça ne fait que 18 points ?!»
 
@@ -98,7 +98,7 @@ Ce point est cumulable avec le point de bonus individuel.
 | [Bonus compétitif 2](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Bonus-Competitif-2) | 1/20 | lundi 1 mars | vendredi 2 avril, à midi |
 | [Bonus compétitif 3](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Bonus-Competitif-3) | 1/20 | lundi 1 mars | vendredi 2 avril, à midi |
 
-### Un projet
+## Le projet
 
 Ce projet de plus grande envergure sera réalisé en deuxième moitié de semestre.
 Il doit être réalisé par équipe de deux ou trois.
