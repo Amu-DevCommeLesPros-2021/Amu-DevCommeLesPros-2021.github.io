@@ -28,6 +28,12 @@ Je souhaite que vous faire cochez le plus de cases possible lors de vos entretie
 Je donne ce cours avec l'idée que dans à peine plus de deux ans, vous serez parmi mes collègues de travail.
 Je communiquerai donc avec vous avec cette perspective.
 
+Pourquoi Slack ?
+Je me doute bien que vous préféreriez un serveur Discord plutôt que d'installer un énième outil de communication.
+Seulement Slack est aujourd'hui l'outil de communication préféré de la gente ingénieure californienne.
+Du coup, je suis toujours disponible sur Slack.
+Je peux vous rejoindre sur Discord (`CPP_Medium_Rare#9310`) mais je n'y suis pas «par défaut».
+
 ## Structure du cours
 
 Le cours consiste en des enseignements sur la pratique de la programmation en tant que professionnel·le, cinq exercices et un projet.
@@ -98,6 +104,9 @@ Ce projet de plus grande envergure sera réalisé en deuxième moitié de semest
 Il doit être réalisé par équipe de deux ou trois.
 Ce projet sera noté séparément.
 
+Il est prévu une soutenance qui sera faite à distance.
+Plus de détails seront fournis en temps voulu.
+
 | Projet | Disponibilité | Échéance |
 | - | - | - |
-| [Projet](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Projet) | mardi 6 avril | 31 mai, à midi |
+| [Projet](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Projet) | mardi 6 avril | lundi 31 mai, à midi |
