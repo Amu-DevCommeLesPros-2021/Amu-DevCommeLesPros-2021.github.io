@@ -1,1 +1,5 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
+kramdown:
+  toc_levels: "1..2"
+title: "Développer comme les pros"
+description: "«Been there, done that.»"
