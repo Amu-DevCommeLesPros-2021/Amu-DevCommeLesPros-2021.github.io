@@ -8,7 +8,7 @@
 Né à Montréal, Québec, Canada, il travaille pendant une vingtaine d’années dans la Silicon Valley jusqu’en 2019 quand il immigre à Marseille, France.
 Il a donc un accent un peu bizarre parfois, il a un vocabulaire anglophone du travail et il a aussi compris qu’on ne dit pas du mal de l’OM.
 
-![](https://www.dropbox.com/s/xnpo9tbyuf88xzr/devpro-d-ou-je-viens.png?raw=1)
+![](/assets/images/devpro-d-ou-je-viens.png?raw=1)
 
 Vous pouvez le joindre :
 - par courriel à [thierry.seegers@univ-amu.fr](mailto:thierry.seegers@univ-amu.fr)
