@@ -7,18 +7,19 @@
 
 Né à Montréal, Québec, Canada, il travaille pendant une vingtaine d’années dans la Silicon Valley jusqu’en 2019 quand il immigre à Marseille, France.
 Il a donc un accent un peu bizarre parfois, il a un vocabulaire anglophone du travail et il a aussi compris qu’on ne dit pas du mal de l’OM.
+(Et, au grand dam de sa femme, il parle de lui-même à la troisième personne.)
 
 ![](/assets/images/devpro-d-ou-je-viens.png?raw=1)
 
 Vous pouvez le joindre :
-- par courriel à [thierry.seegers@univ-amu.fr](mailto:thierry.seegers@univ-amu.fr)
 - sur Slack à http://devcommelespros.slack.com ([invitation](https://join.slack.com/t/devcommelespros/signup))
+- par courriel à [thierry.seegers@univ-amu.fr](mailto:thierry.seegers@univ-amu.fr)
 - [site perso](https://thierry-seegers.pedaweb.univ-amu.fr/)
 
 Pourquoi Slack ?
 Je me doute bien que vous préféreriez un serveur Discord plutôt que d'installer un énième outil de communication.
-Seulement Slack est aujourd'hui l'outil de communication préféré de la gente ingénieure californienne.
-Du coup, je suis toujours disponible sur Slack.
+Seulement Slack est aujourd'hui l'outil de communication préféré de la gent ingénieure californienne.
+Du coup, je suis essentiellement toujours disponible sur Slack.
 Je peux vous rejoindre sur Discord (`CPP_Medium_Rare#9310`) mais je n'y suis pas «par défaut».
 
 ## Objectif du cours
@@ -37,7 +38,7 @@ Je communiquerai donc avec vous avec cette perspective.
 # Structure du cours
 
 Le cours consiste en des enseignements sur la pratique de la programmation en tant que professionnel·le, cinq exercices et un projet.
-Ce cours est évalué «en continue» et il n'y aura pas d'examen final.
+Ce cours est évalué «en continu» et il n'y aura pas d'examen final.
 
 ## La théorie
 
@@ -61,9 +62,9 @@ Voici les invitations pour chacun des cours :
 Il y a cinq exercices à compléter.
 Comme ce cours est en évaluation continue, votre note finale est la somme des points obtenus pondérés comme indiqué.
 
-Les exercices seront évalué par défaut à la date indiquée, essentiellement sept jours après votre TP correspondant.
+Les exercices seront évalués par défaut à la date indiquée, essentiellement sept jours après votre TP correspondant.
 Seule exception : le zérotième exercice qui doit être complété avant le premier TP.
-Si vous désirez être évalué·e plus tard, vous devez me le signaler mais vous encourez un perte de 10% des points pour chaque jour de retard.
+Si vous désirez être évalué·e plus tard, vous devez me le signaler mais vous encourrez une perte de 10% des points pour chaque jour de retard.
 
 Les trois premiers exercices sont à compléter seul.
 Les deux derniers, en binôme.
