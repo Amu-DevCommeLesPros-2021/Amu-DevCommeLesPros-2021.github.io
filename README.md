@@ -57,7 +57,7 @@ Les parties «démos» des cours seront aussi par la suite mises en ligne.
 | mercredi 10 février, 10:00 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
 | lundi 22 février, 13:30 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
 | vendredi 12 mars, 13:30 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
-| mardi 23 mars, 10:30 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
+| mardi 23 mars, 10:00 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
 
 ## Les exercices
 
