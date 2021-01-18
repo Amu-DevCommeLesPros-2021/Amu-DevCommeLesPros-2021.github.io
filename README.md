@@ -61,17 +61,21 @@ Les parties «démos» des cours seront aussi par la suite mises en ligne.
 
 ## Les exercices
 
-Il y a cinq exercices à compléter.
-Comme ce cours est en évaluation continue, votre note finale est la somme des points obtenus pondérés comme indiqué.
+Les trois premiers exercices sont à compléter seul.
+Les deux derniers, en binôme.
+Chaque exercice comprte une partie «Préparation» qui devraient être complétée avant son TP.
 
 Les exercices seront évalués par défaut à la date indiquée, essentiellement sept jours après votre TP correspondant.
 Seule exception : le zérotième exercice qui doit être complété avant le premier TP.
 Si vous désirez être évalué·e plus tard, vous devez me le signaler mais vous encourrez une perte de 10% des points pour chaque jour de retard.
 
-Chaque exercice comprte une partie «Préparation» qui devraient être complétée avant son TP.
+Je désire recevoir du code qui sera le fruit de votre réflection et écrit de votre main.
+Dans le cas contraire, le travail reçoit une note de zéro.
+Une récidive entraîne une note de zéro pour le cours entier.
+Pour information, j'utilise l'outil [MOSS](http://moss.stanford.edu).
 
-Les trois premiers exercices sont à compléter seul.
-Les deux derniers, en binôme.
+Il y a cinq exercices à compléter.
+Comme ce cours est en évaluation continue, votre note finale est la somme des points obtenus pondérés comme indiqué.
 
 | Exercice | Points | Disponibilité | Échéance Q1 | Échéance Q2 | Échéance Q3 | Échéance Q4 |
 | - | - | - | - | - | - | - |
