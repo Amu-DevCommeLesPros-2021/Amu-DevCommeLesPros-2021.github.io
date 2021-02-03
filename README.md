@@ -27,7 +27,7 @@ Je peux vous rejoindre sur Discord (`CPP_Medium_Rare#9310`) mais je n'y suis pas
 
 Je viens vous faire profiter de mes connaissances et de mon expérience de la pratique du développement de logiciel en milieu professionnel.
 J’ai travaillé dans plusieurs compagnies, des grandes multinationales et des petites d’une vingtaine d’employés.
-Les domaines ont été divers : l’audio dans des systèmes embarqués, les plugins de navigateurs web, le [livre numérique](https://fr.wikipedia.org/wiki/Livre_num%C3%A9rique), l'analyse de réseau, etc.
+Les domaines ont été divers : l’audio dans des systèmes embarqués, les plugins de navigateurs web, le [livre numérique](https://fr.wikipedia.org/wiki/Livre_num%C3%A9rique), l'analyse de réseau, la vidéo-conférence sur mobile, etc.
 
 Nous verrons les outils, méthodes et pratiques utilisés pour le développement de logiciel en milieu professionnel de nos jours.
 L'objectif est d'améliorer votre qualité de vie en tant qu'étudiant·e en génie logiciel, de faciliter l'accomplissement de vos travaux académiques, présents et futurs, et de vous faire travailler dès à présent comme des professionnels·les.
@@ -41,29 +41,31 @@ Je communiquerai donc avec vous avec cette perspective.
 Le cours consiste en des enseignements sur la pratique de la programmation en tant que professionnel·le, cinq exercices et un projet.
 Ce cours est évalué «en continu» et il n'y aura pas d'examen final.
 
+## Modalité d'enseignement
+
+Nous essayons tous d'être flexible étant donné les circonstances.
+Jusqu'à nouvel ordre tous les CMs et les TPs seront donné via AMUZoom par ma «[salle Zoom personelle](https://univ-amu-fr.zoom.us/j/2421033910)» (numéro d'identification : 242 103 3910).
+L'URL de la conférence Zoom pour chaque cours et TP reste donc le même pour toute la durée du cours.
 ## La théorie
 
 Le matériel théorique du cours est [ici](https://thierryseegers.github.io/DevCommeLesPros-CoursMagistral/).
 Les cours magistraux ne seront pas que de la théorie.
-Je vais essayer au maximum de démontrer ce dont il est discuté.
+Je vais au maximum démontrer devant vous ce dont il est discuté.
+Ces parties «démos» des cours seront par la suite mises en ligne.
 
-Les cours magistraux seront donnés à distance par AMUZoom de ma «[salle Zoom personelle](https://univ-amu-fr.zoom.us/j/2421033910)» (numéro d'identification : 242 103 3910).
-L'URL de la conférence Zoom pour chaque ne changera donc pas.
-Les parties «démos» des cours seront aussi par la suite mises en ligne.
-
-| Date | Lien AMUZoom | Lien Démos |
-| - | - | - |
-| lundi 8 février, 13:30 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
-| mercredi 10 février, 10:00 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
-| lundi 22 février, 13:30 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
-| vendredi 12 mars, 13:30 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
-| mardi 23 mars, 10:00 | [https://univ-amu-fr.zoom.us/j/2421033910](https://univ-amu-fr.zoom.us/j/2421033910) | |
+| Date | Lien Démos |
+| - | - |
+| lundi 8 février, 13:30 | |
+| mercredi 10 février, 10:15 | |
+| lundi 22 février, 13:30 | |
+| vendredi 12 mars, 13:30 | |
+| mardi 23 mars, 10:15 | |
 
 ## Les exercices
 
 Les trois premiers exercices sont à compléter seul.
 Les deux derniers, en binôme.
-Chaque exercice comprte une partie «Préparation» qui devraient être complétée avant son TP.
+Chaque exercice comporte une partie «Préparation» qui devraient être complétée avant son TP.
 
 Les exercices seront évalués par défaut à la date indiquée, essentiellement sept jours après votre TP correspondant.
 Seule exception : le zérotième exercice qui doit être complété avant le premier TP.
