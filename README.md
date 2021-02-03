@@ -35,6 +35,9 @@ Je souhaite que vous faire cochez le plus de cases possible lors de vos entretie
 
 Je donne ce cours avec l'idée que dans à peine plus de deux ans, vous serez parmi mes collègues de travail.
 Je communiquerai donc avec vous avec cette perspective.
+C'est aussi dans cette optique que je vous encourage lorsque vous avez des questions hors des heures de TPs, à les poser sur [Slack](https://devcommelespros.slack.com).
+La communication y sera plus immédiate (dans la limite du raisonable !) et fluide que par mail.
+Vous trouverez sur Slack une chaîne «général» et une chaîne pour chaque exercice.
 
 # Structure du cours
 
@@ -121,3 +124,28 @@ Plus de détails seront fournis en temps voulu.
 | Projet | Disponibilité | Échéance |
 | - | - | - |
 | [Projet](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Projet) | mardi 6 avril | lundi 31 mai, à midi |
+
+<!-- Formule pour calculer sa note finale ajustée pour une moyenne de groupe de 12 et un écart-type de 3. -->
+<!-- 
+<div align="center">
+(3.0 / ???) x (
+<input type="text" name="input" id="input" value="" size="4" oninput="adjust()" disabled/>
+<script>
+    function adjust() {
+        var moyenne_groupe = ???;
+        var moyenne_desiree = 12;
+        var ecart_type_groupe = ???;
+        var ecart_type_desire = 3.0;
+
+        var avant = document.getElementById("input").value;
+        var apres = (ecart_type_desire / ecart_type_groupe) * (avant - moyenne_groupe) + moyenne_desiree;
+        
+        // On arrondi au demi-point près et on borne entre 0 et 20.
+        var rounded_clamped = Math.min(Math.max((Math.round(apres * 2) / 2).toFixed(1), 0), 20);
+
+        document.getElementById("output").value = rounded_clamped;
+    }
+</script>
+ - 14) + ??? = 
+<input type="text" name="output" id="output" size="4" disabled>
+</div> -->
