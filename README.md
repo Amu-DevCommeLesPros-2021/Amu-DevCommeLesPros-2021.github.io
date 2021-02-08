@@ -58,7 +58,7 @@ Ces parties «démos» des cours seront par la suite mises en ligne.
 
 | Date | Lien Démos |
 | - | - |
-| lundi 8 février, 13:30 | |
+| lundi 8 février, 13:30 | [tasks.json](https://youtu.be/fzrJLBHPOZ8), [débogage](https://youtu.be/FCWav7WDP4A), [journal](https://youtu.be/WeWelga5KVI) |
 | mercredi 10 février, 10:15 | |
 | lundi 22 février, 13:30 | |
 | vendredi 12 mars, 13:30 | |
