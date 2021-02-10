@@ -55,11 +55,13 @@ Le matériel théorique du cours est [ici](https://thierryseegers.github.io/DevC
 Les cours magistraux ne seront pas que de la théorie.
 Je vais au maximum démontrer devant vous ce dont il est discuté.
 Ces parties «démos» des cours seront par la suite mises en ligne.
+Les liens seront mis à jour dans cette table.
+Ils seront aussi ajoutés à [cette playlist](https://youtube.com/playlist?list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ).
 
-| Date | Lien Démos |
+| Date | Liens Démos |
 | - | - |
 | lundi 8 février, 13:30 | [tasks.json](https://youtu.be/fzrJLBHPOZ8), [débogage](https://youtu.be/FCWav7WDP4A), [journal](https://youtu.be/WeWelga5KVI) |
-| mercredi 10 février, 10:15 | |
+| mercredi 10 février, 10:15 | [git basics](https://youtu.be/3x_g2A4pNFY), [git branching](https://youtu.be/MeZTm9Ye7yM), [makefile](https://youtu.be/PD_9MTguNTU) |
 | lundi 22 février, 13:30 | |
 | vendredi 12 mars, 13:30 | |
 | mardi 23 mars, 10:15 | |
