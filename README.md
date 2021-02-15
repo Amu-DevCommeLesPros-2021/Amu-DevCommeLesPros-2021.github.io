@@ -87,7 +87,7 @@ Comme ce cours est en évaluation continue, votre note finale est la somme des p
 | Exercice | Points | Disponibilité | Échéance Q1 | Échéance Q2 | Échéance Q3 | Échéance Q4 |
 | - | - | - | - | - | - | - |
 | [Exercice&nbsp;0](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo0) | 1/20  | lundi 8 fév. | vendredi 12 fév., à midi | vendredi 12 fév., à midi | vendredi 12 fév., à midi | vendredi 12 fév., à midi |
-| [Exercice 1](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo1) | 4,25/20 | lundi 15 fév. | vendredi 26 fév., à midi | mardi 23 fév., à midi | vendredi 26 fév., à midi | vendredi 26 fév., à midi |
+| [Exercice 1](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo1) | 4,25/20 | lundi 15 fév. | vendredi 26 fév., à midi | jeudi 25 fév., à midi | vendredi 26 fév., à midi | vendredi 26 fév., à midi |
 | [Exercice 2](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo2) | 4,25/20 | lundi 22 fév. | mardi 2 mars, à midi | vendredi 5 mars, à midi | jeudi 4 mars, à midi | jeudi 4 mars, à midi |
 | [Exercice 3](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo3) | 4,25/20 | lundi 8 mars | lundi 22 mars, à midi | mardi 23 mars, à midi | mercredi 24 mars, à midi | mardi 23 mars, à midi |
 | [Exercice 4](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo4) | 4,25/20 | lundi 8 mars | mardi 23 mars, à midi | jeudi 25 mars, à midi | vendredi 26 mars, à midi | jeudi 25 mars, à midi |
