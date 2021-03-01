@@ -107,6 +107,8 @@ Les bonus compétitifs adjugent un point au·à la premier·ère étudiant·e qu
 Un seul point maximum de bonus compétitifs sera attribué par étudiant·e.
 Ce point est cumulable avec le point de bonus individuel.
 
+Notez que l'échéance donnée est *l'échéance finale* et que je ne considererai pas les bonus remis en retard.
+
 | Bonus | Points | Disponibilité | Échéance |
 | - | - | - | - |
 | [Bonus&nbsp;individuel](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Bonus-Individuel) | 1/20 | lundi 1 mars | vendredi 12 mars, à midi |
