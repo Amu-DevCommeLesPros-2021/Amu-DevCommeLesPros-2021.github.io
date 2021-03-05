@@ -30,14 +30,14 @@ J’ai travaillé dans plusieurs compagnies, des grandes multinationales et des 
 Les domaines ont été divers : l’audio dans des systèmes embarqués, les plugins de navigateurs web, le [livre numérique](https://fr.wikipedia.org/wiki/Livre_num%C3%A9rique), l'analyse de réseau, la vidéo-conférence sur mobile, etc.
 
 Nous verrons les outils, méthodes et pratiques utilisés pour le développement de logiciel en milieu professionnel de nos jours.
-L'objectif est d'améliorer votre qualité de vie en tant qu'étudiant·e en génie logiciel, de faciliter l'accomplissement de vos travaux académiques, présents et futurs, et de vous faire travailler dès à présent comme des professionnels·les.
+L'objectif est d'améliorer votre qualité de vie en tant qu'étudiant·e en génie logiciel, de faciliter l'accomplissement de vos travaux académiques, présents et futurs, et de vous faire travailler dès à présent comme des professionnel·le·s.
 Je souhaite que vous faire cochez le plus de cases possible lors de vos entretiens d'embauche.
 
 Je donne ce cours avec l'idée que dans à peine plus de deux ans, vous serez parmi mes collègues de travail.
 Je communiquerai donc avec vous avec cette perspective.
 C'est aussi dans cette optique que je vous encourage lorsque vous avez des questions hors des heures de TPs, à les poser sur [Slack](https://devcommelespros.slack.com).
 La communication y sera plus immédiate (dans la limite du raisonable !) et fluide que par mail.
-Vous trouverez sur Slack une chaîne «général» et une chaîne pour chaque exercice.
+Vous trouverez sur Slack une chaîne «générale» et une chaîne pour chaque exercice.
 
 # Structure du cours
 
@@ -60,11 +60,11 @@ Ils seront aussi ajoutés à [cette playlist](https://youtube.com/playlist?list=
 
 | Date | Liens Démos |
 | - | - |
-| lundi 8 février, 13:30 | [tasks.json](https://youtu.be/fzrJLBHPOZ8), [débogage](https://youtu.be/FCWav7WDP4A), [journal](https://youtu.be/WeWelga5KVI) |
-| mercredi 10 février, 10:15 | [git basics](https://youtu.be/3x_g2A4pNFY), [git branching](https://youtu.be/MeZTm9Ye7yM), [makefile](https://youtu.be/PD_9MTguNTU) |
-| lundi 22 février, 13:30 | |
+| lundi 8 février, 13:30 | [tasks.json](https://www.youtube.com/watch?v=fzrJLBHPOZ8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=1), [débogage](https://www.youtube.com/watch?v=FCWav7WDP4A&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=2), [journal](https://www.youtube.com/watch?v=WeWelga5KVI&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=3) |
+| mercredi 10 février, 10:00 | [git basics](https://www.youtube.com/watch?v=3x_g2A4pNFY&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=4), [git branching](https://www.youtube.com/watch?v=MeZTm9Ye7yM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=5), [makefile](https://www.youtube.com/watch?v=PD_9MTguNTU&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=6) |
+| lundi 22 février, 13:30 | [division logique](https://www.youtube.com/watch?v=9GscuZnwY1M&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=7), [git pull request](https://www.youtube.com/watch?v=ir6UagfSZF8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=8)|
 | vendredi 12 mars, 13:30 | |
-| mardi 23 mars, 10:15 | |
+| mardi 23 mars, 10:00 | |
 
 ## Les exercices
 
