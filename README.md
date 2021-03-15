@@ -63,7 +63,7 @@ Ils seront aussi ajoutés à [cette playlist](https://youtube.com/playlist?list=
 | lundi 8 février, 13:30 | [tasks.json](https://www.youtube.com/watch?v=fzrJLBHPOZ8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=1), [débogage](https://www.youtube.com/watch?v=FCWav7WDP4A&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=2), [journal](https://www.youtube.com/watch?v=WeWelga5KVI&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=3) |
 | mercredi 10 février, 10:00 | [git basics](https://www.youtube.com/watch?v=3x_g2A4pNFY&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=4), [git branching](https://www.youtube.com/watch?v=MeZTm9Ye7yM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=5), [makefile](https://www.youtube.com/watch?v=PD_9MTguNTU&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=6) |
 | lundi 22 février, 13:30 | [division logique](https://www.youtube.com/watch?v=9GscuZnwY1M&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=7), [git pull request](https://www.youtube.com/watch?v=ir6UagfSZF8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=8)|
-| vendredi 12 mars, 13:30 | |
+| vendredi 12 mars, 13:30 | [unités incompatibles](https://www.youtube.com/watch?v=BP2XNNuGUQ4&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=9), [intégration continue](https://www.youtube.com/watch?v=1cMt03_fYMM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=10)|
 | mardi 23 mars, 10:00 | |
 
 ## Les exercices
