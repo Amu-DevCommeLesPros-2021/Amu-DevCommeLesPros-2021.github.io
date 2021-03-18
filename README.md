@@ -63,7 +63,7 @@ Ils seront aussi ajoutés à [cette playlist](https://youtube.com/playlist?list=
 | lundi 8 février, 13:30 | [tasks.json](https://www.youtube.com/watch?v=fzrJLBHPOZ8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=1), [débogage](https://www.youtube.com/watch?v=FCWav7WDP4A&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=2), [journal](https://www.youtube.com/watch?v=WeWelga5KVI&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=3) |
 | mercredi 10 février, 10:00 | [git basics](https://www.youtube.com/watch?v=3x_g2A4pNFY&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=4), [git branching](https://www.youtube.com/watch?v=MeZTm9Ye7yM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=5), [makefile](https://www.youtube.com/watch?v=PD_9MTguNTU&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=6) |
 | lundi 22 février, 13:30 | [division logique](https://www.youtube.com/watch?v=9GscuZnwY1M&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=7), [git pull request](https://www.youtube.com/watch?v=ir6UagfSZF8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=8)|
-| vendredi 12 mars, 13:30 | [unités incompatibles](https://www.youtube.com/watch?v=BP2XNNuGUQ4&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=9), [intégration continue](https://www.youtube.com/watch?v=1cMt03_fYMM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=10)|
+| vendredi 12 mars, 13:30 | [unités incompatibles](https://www.youtube.com/watch?v=BP2XNNuGUQ4&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=9), [intégration continue](https://www.youtube.com/watch?v=1cMt03_fYMM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=10), [memmove() et realloc()](https://www.youtube.com/watch?v=lx0PxzDPCHk&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=11)|
 | mardi 23 mars, 10:00 | |
 
 ## Les exercices
@@ -89,8 +89,8 @@ Comme ce cours est en évaluation continue, votre note finale est la somme des p
 | [Exercice&nbsp;0](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo0) | 1/20  | lundi 8 fév. | vendredi 12 fév., à midi | vendredi 12 fév., à midi | vendredi 12 fév., à midi | vendredi 12 fév., à midi |
 | [Exercice 1](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo1) | 4,25/20 | lundi 15 fév. | vendredi 26 fév., à midi | jeudi 25 fév., à midi | vendredi 26 fév., à midi | vendredi 26 fév., à midi |
 | [Exercice 2](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo2) | 4,25/20 | lundi 22 fév. | mardi 2 mars, à midi | vendredi 5 mars, à midi | jeudi 4 mars, à midi | jeudi 4 mars, à midi |
-| [Exercice 3](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo3) | 4,25/20 | lundi 8 mars | lundi 22 mars, à midi | mardi 23 mars, à midi | mercredi 24 mars, à midi | mardi 23 mars, à midi |
-| [Exercice 4](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo4) | 4,25/20 | lundi 8 mars | mardi 23 mars, à midi | jeudi 25 mars, à midi | vendredi 26 mars, à midi | jeudi 25 mars, à midi |
+| [Exercice 3](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo3) | 4,25/20 | lundi 8 mars | mercredi 24 mars, à midi | mercredi 24 mars, à midi | mercredi 24 mars, à midi | mercredi 24 mars, à midi |
+| [Exercice 4](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Exo4) | 4,25/20 | lundi 8 mars | vendredi 26 mars, à midi | vendredi 26 mars, à midi | vendredi 26 mars, à midi | vendredi 26 mars, à midi |
 
 ## Les bonus
 
