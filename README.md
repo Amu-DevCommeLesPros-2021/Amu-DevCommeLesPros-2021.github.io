@@ -64,7 +64,7 @@ Ils seront aussi ajoutés à [cette playlist](https://youtube.com/playlist?list=
 | mercredi 10 février, 10:00 | [git basics](https://www.youtube.com/watch?v=3x_g2A4pNFY&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=4), [git branching](https://www.youtube.com/watch?v=MeZTm9Ye7yM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=5), [makefile](https://www.youtube.com/watch?v=PD_9MTguNTU&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=6) |
 | lundi 22 février, 13:30 | [division logique](https://www.youtube.com/watch?v=9GscuZnwY1M&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=7), [git pull request](https://www.youtube.com/watch?v=ir6UagfSZF8&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=8)|
 | vendredi 12 mars, 13:30 | [unités incompatibles](https://www.youtube.com/watch?v=BP2XNNuGUQ4&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=9), [intégration continue](https://www.youtube.com/watch?v=1cMt03_fYMM&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=10), [memmove() et realloc()](https://www.youtube.com/watch?v=lx0PxzDPCHk&list=PLetmUjNPuBalv30pXt4F75ZzV8I3MEoMJ&index=11)|
-| mardi 23 mars, 10:00 | |
+| mardi 23 mars, 10:15 | |
 
 ## Les exercices
 
@@ -121,6 +121,11 @@ Notez que l'échéance donnée est *l'échéance finale* et que je ne considerer
 Ce projet de plus grande envergure sera réalisé en deuxième moitié de semestre.
 Il doit être réalisé par équipe de deux ou trois.
 Ce projet sera noté séparément.
+
+Des TDs sont inscrits à l'emploi du temps.
+Voyez ces TDs comme des heures de «permanence» de ma part où je répondrai à vos questions, par [Slack](https://join.slack.com/t/devcommelespros/signup) ou par [mail](mailto:thierry.seegers@univ-amu.fr).
+Ceci étant, je reste disponible hors de ces heures.
+Pour certains de ces TDs qui seront en présentiel, je serai présent sur place mais votre présence n'est pas obligatoire.
 
 Il est prévu une soutenance qui sera faite à distance.
 Plus de détails seront fournis en temps voulu.
