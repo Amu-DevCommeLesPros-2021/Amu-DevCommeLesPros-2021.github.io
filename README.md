@@ -51,7 +51,7 @@ Jusqu'à nouvel ordre tous les CMs et les TPs seront donné via AMUZoom par ma �
 L'URL de la conférence Zoom pour chaque cours et TP reste donc le même pour toute la durée du cours.
 ## La théorie
 
-Le matériel théorique du cours est [ici](https://thierryseegers.github.io/DevCommeLesPros-CoursMagistral/).
+Le matériel théorique du cours est [ici](https://devcommelespros.github.io/CoursMagistral/).
 Les cours magistraux ne seront pas que de la théorie.
 Je vais au maximum démontrer devant vous ce dont il est discuté.
 Ces parties «démos» des cours seront par la suite mises en ligne.
