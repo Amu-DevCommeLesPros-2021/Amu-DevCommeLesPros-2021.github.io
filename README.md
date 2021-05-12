@@ -127,12 +127,28 @@ Voyez ces TDs comme des heures de «permanence» de ma part où je répondrai à
 Ceci étant, je reste disponible hors de ces heures.
 Pour certains de ces TDs qui seront en présentiel, je serai présent sur place mais votre présence n'est pas obligatoire.
 
-Il est prévu une soutenance qui sera faite à distance.
-Plus de détails seront fournis en temps voulu.
-
 | Projet | Disponibilité | Échéance |
 | - | - | - |
 | [Projet](https://github.com/Amu-DevCommeLesPros-2021/DevCommeLesPros-2021-Projet) | mardi 6 avril | lundi 31 mai, à midi |
+
+### Soutenance
+
+Le **vendredi 4 juin** est prévue une soutenance de votre projet.
+Vous aurez de 15 à 20 minutes divisées comme suit :
+- 5 à 10 minutes de conversation à propos de votre travail.
+- 5 à 10 minutes de démo.
+
+Des exemples de questions qui vous seront posées :
+- À quelles ambiguïtés avez-vous fait face ? Quelles choix avez-vous faits ?
+- Quelles erreurs avez-vous comises ? Comment les avez-vous réparées ?
+- Que referiez-vous différemment si vous aviez à recommencer de zéro ?
+- Quelles seraient les prochaines améliorations que vous apporteriez ?
+- Quelles ressources avez-vous utilisées pour vous aider ?
+- Qu'avez-vous appris en faisant ce projet ?
+
+Prenez rendez-vous avec moi pour obtenir un créneau de temps. 
+Voyez les créneaux encore disponibles [ici](https://amubox.univ-amu.fr/s/Eaf2QDMLScGd42H).
+
 
 <!-- Formule pour calculer sa note finale ajustée pour une moyenne de groupe de 12 et un écart-type de 3. -->
 <!-- 
