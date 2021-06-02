@@ -133,7 +133,7 @@ Pour certains de ces TDs qui seront en présentiel, je serai présent sur place 
 
 ### Soutenance
 
-Le **vendredi 4 juin** est prévue une soutenance de votre projet.
+Le **vendredi 4 juin** est prévue une soutenance de votre projet. Cette soutenance se déroulera à distance en utilisant ma salle [salle Zoom personelle](https://univ-amu-fr.zoom.us/j/2421033910), comme d'habitude.
 Vous aurez de 15 à 20 minutes divisées comme suit :
 - 5 à 10 minutes de conversation à propos de votre travail.
 - 5 à 10 minutes de démo.
